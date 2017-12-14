@@ -7,3 +7,12 @@ C:\Users\esramirez\Documents\Visual Studio 2017\Projects\ShapingUpWithAngular.js
 C:\Users\esramirez\Documents\Visual Studio 2017\Projects\ShapingUpWithAngular.js\ShapingUpWithAngular.js\obj\Debug\ShapingUpWithAngular.js.csproj.CoreCompileInputs.cache
 C:\Users\esramirez\Documents\Visual Studio 2017\Projects\ShapingUpWithAngular.js\ShapingUpWithAngular.js\obj\Debug\ShapingUpWithAngular.js.dll
 C:\Users\esramirez\Documents\Visual Studio 2017\Projects\ShapingUpWithAngular.js\ShapingUpWithAngular.js\obj\Debug\ShapingUpWithAngular.js.pdb
+C:\Users\esramirez\Documents\GitHub\ShapingUpWithAngular.js\ShapingUpWithAngular.js\bin\ShapingUpWithAngular.js.dll.config
+C:\Users\esramirez\Documents\GitHub\ShapingUpWithAngular.js\ShapingUpWithAngular.js\bin\ShapingUpWithAngular.js.dll
+C:\Users\esramirez\Documents\GitHub\ShapingUpWithAngular.js\ShapingUpWithAngular.js\bin\ShapingUpWithAngular.js.pdb
+C:\Users\esramirez\Documents\GitHub\ShapingUpWithAngular.js\ShapingUpWithAngular.js\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esramirez\Documents\GitHub\ShapingUpWithAngular.js\ShapingUpWithAngular.js\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esramirez\Documents\GitHub\ShapingUpWithAngular.js\ShapingUpWithAngular.js\obj\Debug\ShapingUpWithAngular.js.csprojResolveAssemblyReference.cache
+C:\Users\esramirez\Documents\GitHub\ShapingUpWithAngular.js\ShapingUpWithAngular.js\obj\Debug\ShapingUpWithAngular.js.csproj.CoreCompileInputs.cache
+C:\Users\esramirez\Documents\GitHub\ShapingUpWithAngular.js\ShapingUpWithAngular.js\obj\Debug\ShapingUpWithAngular.js.dll
+C:\Users\esramirez\Documents\GitHub\ShapingUpWithAngular.js\ShapingUpWithAngular.js\obj\Debug\ShapingUpWithAngular.js.pdb
